@@ -1,0 +1,7 @@
+author: DevGui
+name: "marriage"
+main: "com.minecraft.marriage.MarriagePlugin"
+version: "1.0.0"
+depend:
+  - SkinRestorer
+  - PlaceholderAPI

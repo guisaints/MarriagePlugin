@@ -1,0 +1,5 @@
+name: "common-scoreboard"
+main: "com.minecraft.vanity.scoreboard.CommonScoreboardPlugin"
+version: "1.0.0"
+depend:
+  - common-bukkit

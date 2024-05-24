@@ -1,0 +1,49 @@
+scoreboards:
+  default:
+    animationTitle: false
+    title: "&5&lGALAXY"
+    lines:
+      - ""
+      - "&fNível: &1"
+      - ""
+      - "&fCoins: &2$2.000"
+      - "&fLimite: &b∞1"
+      - "&fCash: &6✪1"
+      - "&fReais: &7R$100"
+      - ""
+      - "&eredevanity.com"
+  fish:
+    animationTitle: false
+    title: "&b&lPESCA"
+    lines:
+      - ""
+      - " &ftenho que fazer ainda"
+      - ""
+      - "&eredevanity.com"
+  plots:
+    animationTitle: true
+    title: "&6&lTERRENOS"
+    lines:
+      - "&fNível: &1"
+      - ""
+      - " &fVocê está no mundo"
+      - " &fdos terrenos."
+      - ""
+      - "&fCoins: &2$2.000"
+      - "&fLimite: &b∞1"
+      - "&fCash: &6✪1"
+      - ""
+      - "&eredevanity.com"
+  arena:
+    animationTitle: true
+    title: "&c&lARENA"
+    lines:
+      - "&fNível: &1"
+      - ""
+      - " &fBoa sorte na batalha"
+      - " &fguerreiro."
+      - ""
+      - "&fCoins: &2$2.000"
+      - "&fCash: &6✪1"
+      - ""
+      - "&eredevanity.com"
